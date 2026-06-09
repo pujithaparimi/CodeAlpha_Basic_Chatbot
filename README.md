@@ -1,35 +1,51 @@
-# CodeAlpha Basic Chatbot
+# 🤖 CodeAlpha Basic Chatbot
 
-## Description
-A simple rule-based chatbot developed using Python. The chatbot responds to predefined user inputs using conditional statements.
+## 📌 Project Overview
 
-## Features
+This project is a simple rule-based chatbot developed using Python. The chatbot interacts with users by responding to predefined inputs using conditional statements and loops.
+
+## ✨ Features
 
 - Greets users
 - Responds to common questions
 - Handles unknown inputs
-- Exits when user types "bye"
+- Allows users to exit the conversation using "bye"
+- Beginner-friendly Python project
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - If-Else Statements
 - While Loop
 - String Handling
 
-## How to Run
+## 🚀 How to Run
 
 ```bash
 python basic_chatbot.py
 ```
 
-## Sample Output
+## 💬 Sample Output
 
-![Chatbot Output](screenshots/chatbot_output.png)
+![Chatbot Output](chatbot_output.png)
 
-## Learning Outcomes
+## 📂 Project Structure
+
+```text
+CodeAlpha_Basic_Chatbot
+│
+├── README.md
+├── basic_chatbot.py
+└── chatbot_output.png
+```
+
+## 🎯 Learning Outcomes
 
 - User Input Handling
-- Conditional Statements
-- Loops
-- Basic Chatbot Development
+- Conditional Logic
+- Loops in Python
+- Building a Simple Chatbot
+
+## 🏆 Internship Task
+
+This project was completed as part of the CodeAlpha Python Programming Internship.
