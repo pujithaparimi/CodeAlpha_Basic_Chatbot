@@ -1,20 +1,19 @@
 # CodeAlpha Basic Chatbot
 
 ## Description
-
-A simple rule-based chatbot developed using Python. The chatbot responds to user inputs with predefined answers using conditional statements and loops.
+A simple rule-based chatbot developed using Python. The chatbot responds to predefined user inputs using conditional statements.
 
 ## Features
 
 - Greets users
-- Answers common questions
+- Responds to common questions
 - Handles unknown inputs
-- Exits when the user types "bye"
+- Exits when user types "bye"
 
 ## Technologies Used
 
 - Python
-- Conditional Statements (if-elif-else)
+- If-Else Statements
 - While Loop
 - String Handling
 
@@ -26,18 +25,7 @@ python basic_chatbot.py
 
 ## Sample Output
 
-![Chatbot Output](./screenshots/chatbot_output.png)
-
-## Project Structure
-
-```text
-CodeAlpha_Basic_Chatbot
-│
-├── basic_chatbot.py
-├── README.md
-└── screenshots
-    └── chatbot_output.png
-```
+![Chatbot Output](screenshots/chatbot_output.png)
 
 ## Learning Outcomes
 
